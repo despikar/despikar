@@ -16,3 +16,6 @@
 
 ## 🔗 Connect with me
 [📫 Email](mailto:despikar7@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/despina-karatziou/) | [🌐 Portfolio](https://eight-river-1d2.notion.site/...)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=despikar&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=despikar&show_icons=true&theme=tokyonight)
